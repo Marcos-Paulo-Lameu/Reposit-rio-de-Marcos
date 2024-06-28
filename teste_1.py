@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title('SENAC')
+st.title('Marquin é bão demais sô!')
